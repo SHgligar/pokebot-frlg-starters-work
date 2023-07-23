@@ -1,3 +1,3 @@
 # pokebot-frlg
 
-working SR's for Charmander,Squirtle and Bulbasaur
+older release with working SR's for Charmander,Squirtle and Bulbasaur
